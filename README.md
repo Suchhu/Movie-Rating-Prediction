@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie Rating Prediction Using Python
 
 ## Objective
