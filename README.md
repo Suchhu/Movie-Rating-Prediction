@@ -32,4 +32,4 @@ python movie_rating_prediction.py
 =======
 # Movie-Rating-Prediction
 Movie Rating Prediction using Machine Learning and Streamlit. This application predicts IMDb movie ratings based on Genre, Director, and Lead Actor using a Random Forest Regressor with an interactive and user-friendly web interface.
->>>>>>> 853add2e7cdce95fa049309b701ab8bd5dbcc988
+
